@@ -1,2 +1,8 @@
 # Ideas
-This repository simply exist to list fun little coding ideas I had to learn different languages.
+| Name | Language | Twist |
+|---|---|---|
+| Tic-Tac-Toe | CLI| |
+| War Card Game | GoLang| |
+| Calculator | Rust| |
+| Binary Search Tree | C | |
+| Weather Station | Python | |
