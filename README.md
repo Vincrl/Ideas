@@ -1,7 +1,7 @@
 # Ideas
 | Name | Language | Twist |
 |---|---|---|
-| Tic-Tac-Toe | CLI| |
+| Tic-Tac-Toe | Shell | |
 | War Card Game | GoLang| |
 | Calculator | Rust| |
 | Binary Search Tree | C | |
